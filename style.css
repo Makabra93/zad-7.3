@@ -1,10 +1,6 @@
 body {
   margin: 0 auto;
-<<<<<<< HEAD
   background-color: #0d0ac9;
-=======
-  background-color: #e22d2d;
->>>>>>> devHeader
   text-align: center;
   color: green; }
 
@@ -19,11 +15,7 @@ header p {
   border-bottom: solid 1px white; }
 
 .lyrics {
-<<<<<<< HEAD
-  color: #00ff88;
-=======
   color: #0f0f02;
->>>>>>> devLyrics
   max-width: 300px;
   margin: 0 auto;
   font-size: 20px;
