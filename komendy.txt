@@ -1,0 +1,20 @@
+	//////AUTOPREFIXER-CLI://////
+To start this program and set it to read from style.css to style.prefixed.css
+you have to type following command:
+
+"autoprefixer-cli -o  style.prefixed.css style.css"
+
+	//////NU-HTML-CHECKER://////
+To start this program and set it to read from all html files
+you have to type following command:
+
+"nu-html-checker --formatter *.html" 
+
+- but kill me, I don't know where to find results :(
+
+
+
+
+
+
+
