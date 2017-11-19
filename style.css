@@ -13,3 +13,9 @@ header p {
     font-size: 34px;
     color: grey;
 }
+.lyrics {
+    display: flex;
+    display: -webkit-flex;
+    max-width: 1200px;
+    margin: 0 auto;
+}
