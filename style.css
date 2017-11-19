@@ -1,8 +1,8 @@
 body {
   margin: 0 auto;
-  background-color: #000000;
+  background-color: #0d0ac9;
   text-align: center;
-  color: white; }
+  color: green; }
 
 header h1 {
   font-size: 40px;
@@ -15,6 +15,7 @@ header p {
   border-bottom: solid 1px white; }
 
 .lyrics {
+  color: #00ff88;
   max-width: 300px;
   margin: 0 auto;
   font-size: 20px;
