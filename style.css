@@ -14,8 +14,9 @@ header p {
     color: grey;
 }
 .lyrics {
-    display: flex;
-    display: -webkit-flex;
-    max-width: 1200px;
+    max-width: 300px;
     margin: 0 auto;
+}
+.verse {
+    margin: 20px;
 }
